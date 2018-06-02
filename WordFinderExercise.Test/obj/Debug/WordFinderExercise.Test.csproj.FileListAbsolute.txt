@@ -1,0 +1,15 @@
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\WordFinderExercise.Test.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\WordFinderExercise.Test.pdb
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\WordFinderExercise.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\WordFinderExercise.pdb
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\obj\Debug\WordFinderExercise.Test.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\obj\Debug\WordFinderExercise.Test.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\obj\Debug\WordFinderExercise.Test.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise.Test\obj\Debug\WordFinderExercise.Test.pdb

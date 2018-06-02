@@ -12,7 +12,7 @@ namespace WordFinderExercise
 
         public WordFinder(IEnumerable<string> dictionary)
         {
-            this.WordDictionary = dictionary.OrderBy(w => w);
+            this.WordDictionary = dictionary.OrderBy(w => w); 
         }
 
         public IList<string> Find(IEnumerable<string> src)
@@ -48,7 +48,7 @@ namespace WordFinderExercise
                 for (int r = 0; r < rows; r++) 
                 {
                     var listOfOcurrences = this.GetOcurrencesOf(characterToFind, matrix[r]);
-                    horizontalString = matrix[r].ToString();
+                    horizontalString = new string(matrix[r]);
                     verticalStrings = this.GetVerticalString(matrix, r, listOfOcurrences, rows);
 
                     foreach (var word in wordsStartingWithCharacter)
@@ -81,29 +81,29 @@ namespace WordFinderExercise
         {
             var listOfOcurrences = new List<int>();
 
-            var firstString = row.ToString().IndexOf(findedChar);
+            for (int i = 0; i < row.Length; i++)
+            {
+                if (row[i] == findedChar)
+                    listOfOcurrences.Add(i);
+            }
 
-            if (firstString == -1)
-                return listOfOcurrences;
-
-            listOfOcurrences.Add(firstString);
-
-            return GetOcurrencesOf(findedChar, row.Take(firstString + 1).ToArray());
+            return listOfOcurrences;
         }
 
         private IEnumerable<string> GetVerticalString(char[][] matrix, int startRow, IEnumerable<int> startColumn, int size)
         {
             var resultStringList = new List<string>();
-            var resultingString = new StringBuilder();
+            var qb = new StringBuilder();
 
             foreach (var colIndex in startColumn)
             {
                 for (int i = startRow; i < size; i++)
                 {
-                    resultingString.Append(matrix[i][colIndex]);
+                    qb.Append(matrix[i][colIndex]);
                 }
 
-                resultStringList.Add(resultingString.ToString());
+                resultStringList.Add(qb.ToString());
+                qb.Clear();
             }
 
             return resultStringList;

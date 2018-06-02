@@ -1,0 +1,6 @@
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\bin\Debug\WordFinderExercise.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\bin\Debug\WordFinderExercise.pdb
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\obj\Debug\WordFinderExercise.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\obj\Debug\WordFinderExercise.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\obj\Debug\WordFinderExercise.dll
+C:\Users\nicolas.raposo\Documents\mine\src\ejercicios\WordFinderExercise\WordFinderExercise\obj\Debug\WordFinderExercise.pdb
